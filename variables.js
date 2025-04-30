@@ -1,7 +1,8 @@
-//They are three ways of variable:
-//  1. let   = it is a blocked scope varialbe,hear we can 
-//  2. var   =
-//  3. const =
+// variables:
+   
+//  1. let   = it is a blocked scope varialbe,hear we can re-assign the value is possiable and re- declaration is not possiable
+//  2. var   = it is a global scop variable,hear we can re-assign the value is possiable
+//  3. const = hear we can not re-declare and re-assign the value is not possiable
 
 // var x = 10
 // var y = 20 
